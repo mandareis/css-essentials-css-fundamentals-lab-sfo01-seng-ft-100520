@@ -7,6 +7,7 @@ h1 {
   text-align: center;
 }
 img {
-  display: flex;
- justify-content: center;
+  width: 60%;
+   margin: auto;
+   display: block;
 }

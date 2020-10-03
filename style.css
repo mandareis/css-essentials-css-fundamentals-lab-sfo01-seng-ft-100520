@@ -12,6 +12,7 @@ img {
    display: block;
 }
 nav {
+  text-align: center;
   padding: 10px;
   background-color: grey;
 }

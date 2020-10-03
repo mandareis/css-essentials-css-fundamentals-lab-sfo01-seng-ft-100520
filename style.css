@@ -7,5 +7,6 @@ h1 {
   text-align: center;
 }
 img {
-  margin: auto;
+  display: flex;
+ justify-content: center;
 }

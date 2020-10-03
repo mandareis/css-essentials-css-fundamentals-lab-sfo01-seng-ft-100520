@@ -11,7 +11,7 @@ img {
    margin: auto;
    display: block;
 }
-a.navbar {
+#navbar {
   text-align: center;
   padding: 10px;
   background-color: grey;

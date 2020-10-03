@@ -11,7 +11,7 @@ img {
    margin: auto;
    display: block;
 }
-nav {
+article a {
   text-align: center;
   padding: 10px;
   background-color: grey;

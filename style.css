@@ -28,3 +28,6 @@ figcaption {
   width: 800px;
   margin: auto;
 }
+#details {
+  display: block;
+}
